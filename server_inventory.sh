@@ -26,7 +26,7 @@ echo "checking the hardwares info"
 sleep 2
 lscpu
 sleep 2
-echo "Thats it! Thank you"
+echo "Thats it! Thank you."
 
 # uname -r |awk -F. '{print$1"."$2}' this will print two fields at the same time  
   #uname -r|awk -F_ '{print$2}'  this will print just the 64 of the uname -r command
